@@ -1,5 +1,5 @@
 ---
-name: booking-guide
+name: hospital-registration
 description: >
   当用户询问挂号、预约、号源、放号时间、怎么约到专家号时触发。
   提供全渠道挂号指引、放号规则、抢号技巧、科室就诊准备。
